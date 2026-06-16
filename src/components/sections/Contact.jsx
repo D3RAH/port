@@ -161,7 +161,7 @@ const Contact = () => {
       
                       <button
                         type="submit"
-                        disabled={isSending} // Disable while sending
+                        disabled={isSending}
                         className="group relative w-full overflow-hidden px-6 py-4 bg-white text-black font-medium rounded-xl hover:text-white hover:bg-black/40 border border-white transition-all duration-500 flex items-center justify-center gap-2 disabled:opacity-70 disabled:cursor-not-allowed"
                       >
                         <div className="absolute -inset-full w-[200%] h-[200%] bg-linear-to-br from-white/20 to-transparent rotate-45 translate-x-[-100%] translate-y-[-100%] group-hover:translate-x-[100%] group-hover:translate-y-[100%] transition-all duration-700 pointer-events-none" />
