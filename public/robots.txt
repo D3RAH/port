@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://emmanuel-chidera.vercel.app/sitemap.xml
+Sitemap: https://emmanuelchidera.vercel.app/sitemap.xml
