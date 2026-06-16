@@ -84,8 +84,8 @@ export const projects = [
     category: 'UI Components',
     technologies: ['React', 'Framer Motion', 'Tailwind', 'Vite'],
     metrics: '2K+ GitHub stars',
-    demoUrl: 'https://timetoprogram.com/projects',
-    githubUrl: 'https://github.com'
+    demoUrl: 'https://emmanuelchidera.vercel.app',
+    githubUrl: 'https://github.com/D3RAH'
   },
 ];
 
